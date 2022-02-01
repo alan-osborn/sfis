@@ -1,0 +1,12 @@
+# Edit this file to configure SFIS
+# DO NOT DELETE THIS FILE
+
+# Your Infmation
+title: "My SFIS Container" # Your Site's Title(such as "My Box" or "Tom's SFIS Container")
+owner: "David Ajax" # your name
+email: "david-ajax@outlook.com" # your email(just write one)
+ad_code: "" # write your ad code in the index page
+
+# Configure SFIS
+about: True # show "Based on SFIS"
+preview_readme_md: True # preview README.md in index.html
